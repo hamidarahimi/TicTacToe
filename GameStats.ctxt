@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameStats
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GameStats\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GameStats()
+comment2.params=
+comment2.target=void\ updatWins()
+comment3.params=
+comment3.target=void\ updatLosses()
+comment4.params=
+comment4.target=void\ updattie()
+comment5.params=
+comment5.target=int\ getTotalGamesPlayed()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
